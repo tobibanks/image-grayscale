@@ -1,0 +1,10 @@
+/Users/samuelodogwu/Desktop/Projects/image-effects/target/wasm32-unknown-unknown/debug/deps/libfdeflate-a322d8d50f15aac5.rmeta: /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/lib.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/compress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/decompress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/tables.rs
+
+/Users/samuelodogwu/Desktop/Projects/image-effects/target/wasm32-unknown-unknown/debug/deps/libfdeflate-a322d8d50f15aac5.rlib: /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/lib.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/compress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/decompress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/tables.rs
+
+/Users/samuelodogwu/Desktop/Projects/image-effects/target/wasm32-unknown-unknown/debug/deps/fdeflate-a322d8d50f15aac5.d: /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/lib.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/compress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/decompress.rs /Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/tables.rs
+
+/Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/lib.rs:
+/Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/compress.rs:
+/Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/decompress.rs:
+/Users/samuelodogwu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.1/src/tables.rs:
